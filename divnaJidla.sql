@@ -30,6 +30,8 @@ VALUES
   ('Dominik Soukup', 'Mexická tortila', FALSE),
   ('Tomáš Černý', 'Hamburger s banánem', TRUE),
   ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE),
+  ('Filip Kuchynka', 'Jahodový vitriol s nakrájeným eidam 3,14', FALSE),
+  ('Prokop Spálenka', 'Zmrzlina z kyselých okurek s čoko polevou', TRUE),
   ('Petr Kunc', 'Kyselá Okurka s Tatarkou', TRUE),
   ('Maksym Polyvoda', 'Mochito s citronovou zmrzlinou', TRUE),
   ('Marek Krejbich', 'Hrachová kaše s uzeným masem', TRUE),
