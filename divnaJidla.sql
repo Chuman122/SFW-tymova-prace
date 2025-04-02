@@ -7,5 +7,8 @@ CREATE TABLE divna_jidla (
 
 INSERT INTO divna_jidla (jmeno, jidlo, prezil)
 VALUES
-  ('Tomáš Černý', 'Hamburger s banánem', TRUE),
-  ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE);
+  ('sebek122', 'ratatouile', FALSE),
+  ('sebek122', 'vykaly', FALSE),
+  ('sebek122', 'avokado', TRUE),
+  ('sebek122', 'kuze z rtu', TRUE),
+  ('sebek122', 'nehty', TRUE);
