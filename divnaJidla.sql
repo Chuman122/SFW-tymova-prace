@@ -9,3 +9,5 @@ INSERT INTO divna_jidla (jmeno, jidlo, prezil)
 VALUES
   ('Tomáš Černý', 'Hamburger s banánem', TRUE),
   ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE);
+  ('Tomáš Nguyen', 'adam s cockou', TRUE),
+  ('dominik mann', 'adamuv zadek', TRUE);
