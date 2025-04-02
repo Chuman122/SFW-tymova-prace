@@ -7,6 +7,11 @@ CREATE TABLE divna_jidla (
 
 INSERT INTO divna_jidla (jmeno, jidlo, prezil)
 VALUES
+  ('Volodymyr Siniaiev', 'Slaninová mrzlina', TRUE),
+  ('Volodymyr Siniaiev', 'Kuřecí prst', FALSE),
+  ('Volodymyr Siniaiev', 'Ananasová pizza', TRUE),
+  ('Volodymyr Siniaiev', 'Syrové vejce', FALSE),
+  ('Volodymyr Siniaiev', 'Smažený švab', FALSE),
   ('Oliver Mandlík', 'Koprovka s kečupem (rajská)', TRUE),
   ('David Wlodarczyk', 'Prokopova svačina s nejakým plesnivým sýrem, asi to byl eidam dvacítka (bolí mě bříško :3)', FALSE),
   ('Jan Zahnáš', 'Syrové/krmné brambory ze školní jídelny', TRUE),
