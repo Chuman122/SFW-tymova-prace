@@ -34,7 +34,12 @@ VALUES
   ('Jakub Matoušek', 'Lečo', FALSE),
   ('Dominik Soukup', 'Mexická tortila', FALSE),
   ('Tomáš Černý', 'Hamburger s banánem', TRUE),
-  ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE),
+  ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE);
+  ('Marek Svačina', 'Prášek na polévku bez vody', TRUE);
+  ('Marek Svačina', 'Pizza s rybou a ananasem', TRUE);
+  ('Marek Svačina', 'Sušenka pro psy', TRUE);
+  ('Marek Svačina', 'Syrové kuře', TRUE);
+  ('Marek Svačina', 'Nevařené těstoviny', TRUE);
   ('Filip Kuchynka', 'Jahodový vitriol s nakrájeným eidam 3,14', FALSE),
   ('Prokop Spálenka', 'Zmrzlina z kyselých okurek s čoko polevou', TRUE),
   ('Petr Kunc', 'Kyselá Okurka s Tatarkou', TRUE),
