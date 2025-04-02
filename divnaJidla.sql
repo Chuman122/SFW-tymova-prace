@@ -15,6 +15,8 @@ VALUES
   ('Dominik Soukup', 'Mexická tortila', FALSE),
   ('Tomáš Černý', 'Hamburger s banánem', TRUE),
   ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE);
+  ('Tomáš Nguyen', 'adamovi mesicky a žemlovka', TRUE);
+  ('Dominik Mann', 'Monte junuior s adam oliznutou lzickou', TRUE);
   ('Dominik Soukup', 'Halušky s brinzou', TRUE);
   ('Jakub Matoušek', 'UHO(univerzalni hneda omacka)', TRUE);
   ('Jakub Matoušek', 'Banány', FALSE);
