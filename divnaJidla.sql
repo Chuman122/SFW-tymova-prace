@@ -7,6 +7,11 @@ CREATE TABLE divna_jidla (
 
 INSERT INTO divna_jidla (jmeno, jidlo, prezil)
 VALUES
+  ('krajcovic122', 'Ratatoile', TRUE),
+  ('krajcovic122', 'Avokádo', TRUE),
+  ('krajcovic122', 'výkaly', FALSE),
+  ('krajcovic122', 'kůže z rtu', TRUE),
+  ('krajcovic122', 'nehty', TRUE),
   ('Volodymyr Siniaiev', 'Slaninová mrzlina', TRUE),
   ('Volodymyr Siniaiev', 'Kuřecí prst', FALSE),
   ('Volodymyr Siniaiev', 'Ananasová pizza', TRUE),
