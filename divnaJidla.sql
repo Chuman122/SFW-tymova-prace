@@ -14,3 +14,4 @@ VALUES
   ('Marek Krejbich', 'Hrachová kaše s uzeným masem', TRUE);
   ('Petr Kunc', 'Byčí jazyk', TRUE);
   ('Petr Kunc', 'Byčí žlázy', TRUE);
+  ('Petr Kunc', 'Tuňáková Zmrzlina', TRUE);
