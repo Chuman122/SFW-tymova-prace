@@ -11,3 +11,7 @@ VALUES
   ('Tomáš Černý', 'Monte jogurt s okurkou', TRUE);
   ('Tomáš Nguyen', 'adam s cockou', TRUE),
   ('dominik mann', 'adamuv zadek', TRUE);
+  ('Matěj Šiňor', 'Květák s tuňákem', TRUE),
+  ('Matěj Šiňor', 'Monte s paprikou', TRUE);
+  ('Matěj Šiňor', 'hranolky s horčicí', TRUE),
+  ('Matěj Šiňor', 'párek s jogurtem', TRUE);
